@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Material Drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_classes">Classes</string>
+    <string name="nav_item_assignments">Assignments</string>
+    <string name="nav_item_tests">Tests</string>
+    <string name="nav_item_grades">Grades</string>
+    <string name="nav_item_notifications">Notifications</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_classes</item>
+        <item>@string/nav_item_assignments</item>
+        <item>@string/nav_item_tests</item>
+        <item>@string/nav_item_grades</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+</resources>
